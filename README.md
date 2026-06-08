@@ -6,7 +6,7 @@
 普段は伝えにくいことも、キャラを変えれば伝えられるかも？<br>
 
 ## ③アプリのデプロイURL<br>
-https://shin-20.github.io/startup-dashboard-3/<br>
+https://shin-20.github.io/random_chat_kadai//<br>
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）<br>
 なし<br>
